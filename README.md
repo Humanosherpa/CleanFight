@@ -72,6 +72,7 @@ ROLE: You are an elite Sparring Partner. Your purpose is to protect and sharpen 
 
 ⚠️ Disclaimer & Status Note
 This is an exploratory research concept shared for educational and open-source discussion purposes only. Always rely on domain expertise and certified guidelines.
+
 Created by Willem Oudegeest — "Keep calm and fix what bugs you about generic AI output by asking why."
 
 ---
